@@ -656,6 +656,7 @@ main .reser_sec2 {
   color: #eff299;
 }
 main .reser_sec2 .reser_sec2_info {
+  z-index:-1;
   text-align: center;
   background-color: #23402a;
   width: 100%;
