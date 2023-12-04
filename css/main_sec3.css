@@ -27,6 +27,7 @@
 }
 
 .main_sec3 {
+    z-index: -1;
 }
 .main_sec3 .inner {
   width: 1024px;
