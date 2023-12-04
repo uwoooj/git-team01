@@ -15,6 +15,7 @@
   align-items: center;
 }
 .main_sec1_top .main_sec1_uptitle figure {
+  z-index:-1;
   position: relative;
   background-color: #eee;
   width: 100%;
@@ -77,6 +78,7 @@
 }
 
 .main_sec1 {
+  z-index:-1;
   overflow: hidden;
   position: relative;
   width: min(90rem, 90%);
