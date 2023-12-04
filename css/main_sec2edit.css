@@ -339,6 +339,7 @@ position: relative; top: 0; left: 0; z-index: 0;
   }
 
   .image-container {
+    z-index:-1;
     width: 100%;
     text-align: center;
     position: relative;
