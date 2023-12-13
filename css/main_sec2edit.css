@@ -78,6 +78,7 @@ position: relative; top: 0; left: 0; z-index: 0;
 }
 
 .sec2 {
+  z-index: -1;
   position: relative;
   /* max-width: 1440px; */
   margin: 0 auto;
