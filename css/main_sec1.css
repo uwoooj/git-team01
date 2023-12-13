@@ -78,7 +78,7 @@
 }
 
 .main_sec1 {
-  z-index:-1;
+  z-index:0;
   overflow: hidden;
   position: relative;
   width: min(90rem, 90%);
